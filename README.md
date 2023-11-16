@@ -4,10 +4,10 @@
 ```JavaScript
 const yourName = prompt("Enter Your Name :");
 class ComputerStudent {
-    introduce() {
+    introduction() {
         this.name = "Bahare Seddigh";
         this.bio = "Computer Student from IR";
-        this.favorites = ["Coding" , "Music" , "Water:)"];
+        this.favorites = ["Coding" , "Music"];
         this.languageSpoken = ["en_US", "fa_IR"];
     }
 
