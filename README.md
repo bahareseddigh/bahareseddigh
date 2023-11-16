@@ -22,7 +22,7 @@ me.welcomeHere();
 
 <h3 align="center">🔗Connect with me :</h3>
 <p align="center">
-<a href="https://instagram.com/https://instagram.com/sebahare_?igshid=ngvhn2u2njq0yg==" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://instagram.com/sebahare_?igshid=ngvhn2u2njq0yg==" height="30" width="40" /></a>
+<a href="/https://instagram.com/sebahare_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://instagram.com/sebahare_?igshid=ngvhn2u2njq0yg==" height="30" width="40" /></a>
 <a href="https://twitter.com/sebahare_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="sebahare_" height="30" width="40" /></a>
 <a href="[https://codepen.io/https://codepen.io/bahareseddigh](https://codepen.io/bahareseddigh)" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="https://codepen.io/bahareseddigh" height="30" width="40" /></a>
 </p>
