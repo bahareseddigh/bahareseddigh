@@ -1,6 +1,3 @@
-<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/b87908d7-d7a5-4b30-8b18-f39c03ec50a0" /><h1 align="center">Hi there!👀</h1>
-<h3 align="left">👩🏻‍💻 About Me</h3>
-
 ```JavaScript
 const yourName = prompt("Enter Your Name :");
 class ComputerStudent {
