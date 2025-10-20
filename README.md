@@ -1,4 +1,4 @@
-<h1 align="center">Hi there!👀</h1>
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/b87908d7-d7a5-4b30-8b18-f39c03ec50a0" /><h1 align="center">Hi there!👀</h1>
 <h3 align="left">👩🏻‍💻 About Me</h3>
 
 ```JavaScript
@@ -6,7 +6,7 @@ const yourName = prompt("Enter Your Name :");
 class ComputerStudent {
     introduction() {
         this.name = "Bahare Seddigh";
-        this.bio = "Computer Student from IR";
+        this.bio = "IT Student from IR";
         this.favorites = ["Coding" , "Music"];
         this.languageSpoken = ["en_US", "fa_IR"];
     }
