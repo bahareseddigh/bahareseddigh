@@ -9,7 +9,7 @@ class ComputerStudent {
     }
 
     welcomeHere() {
-        alert("Wellcome To My Github Account, Hope You Enjoy ${yourName} :)");
+        alert("Welcome To My Github Account, Hope You Enjoy ${yourName} :)");
     }
 }
 
